@@ -127,4 +127,4 @@ title: Инструкция по сбору семантики для «Топ-5
 
 -  Итоговый файл должен содержать несколько листов с группами ключевых фраз и один лист с очищенным списком минус-слов.
 
-![](./instrukciya-po-sboru-semantiki-dlya-top-15.png){width=436px height=545px}
+![](./instrukciya-po-sboru-semantiki-dlya-top-4.png){width=436px height=545px}
