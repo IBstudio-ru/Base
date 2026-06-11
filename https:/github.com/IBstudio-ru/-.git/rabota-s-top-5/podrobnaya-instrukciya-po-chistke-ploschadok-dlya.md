@@ -21,8 +21,6 @@ title: Инструкция по чистке площадок для кампа
 
 ![](./podrobnaya-instrukciya-po-chistke-ploschadok-dlya-3.png){width=496px height=408px}
 
-![](./podrobnaya-instrukciya-po-chistke-ploschadok-dlya-4.png){width=496px height=408px}
-
 -  Нажмите кнопку «Показать» и экспортируйте полученный отчет в Excel.
 
 ### 2\. Подготовка файла к работе
